@@ -1,4 +1,7 @@
 
-export default class {
 
+export default class {
+  @observable data = {
+    
+  }
 }
